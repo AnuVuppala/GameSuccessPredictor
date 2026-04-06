@@ -27,8 +27,3 @@ The total score determines the predicted success level.
 - Java
 - OOP concepts
 - Conditional logic & decision-making
-
-## ▶️ How to Run
-1. Compile:
-   ```bash
-   javac GameSuccessPredictor.java
